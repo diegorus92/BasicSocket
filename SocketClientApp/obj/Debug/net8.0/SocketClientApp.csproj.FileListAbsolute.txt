@@ -1,0 +1,14 @@
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\bin\Debug\net8.0\SocketClientApp.exe
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\bin\Debug\net8.0\SocketClientApp.deps.json
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\bin\Debug\net8.0\SocketClientApp.runtimeconfig.json
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\bin\Debug\net8.0\SocketClientApp.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\bin\Debug\net8.0\SocketClientApp.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.AssemblyInfoInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.AssemblyInfo.cs
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.csproj.CoreCompileInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\refint\SocketClientApp.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\SocketClientApp.genruntimeconfig.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\SocketClientApp\obj\Debug\net8.0\ref\SocketClientApp.dll
